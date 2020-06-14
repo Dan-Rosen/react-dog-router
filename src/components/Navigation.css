@@ -1,0 +1,8 @@
+.Navigation {
+    color: white;
+    text-decoration: none !important;
+}
+
+.Navigation:hover {
+    color: cyan;
+}
